@@ -1,1 +1,12 @@
 /* write your override styles here */
+#wall {
+    display: none !important;
+}
+#patent {
+    display: none !important;
+}
+body {
+    display: none !important;
+}
+/* My page is cpmpletely white but it is not passing 1. It says it need 300 bytes of updates.
+Not sure why it's not passing if the page is completely clear.*/
